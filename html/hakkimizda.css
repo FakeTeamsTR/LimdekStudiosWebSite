@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+body {
+    background-color: #cbcb00;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+p.baslik1 {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 3rem;
+    align-self: center;
+    align-items: center;
+}
+div.menu1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100vh;   
+}
+div.menu1 a {
+    font-size: 2rem;
+    text-decoration: none;
+    color: #000000;
+    font-family: monospace;
+}
+div.icerik {
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+}
+div.icerik p {
+    font-size: 1.5rem;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium';
+    align-items: center;
+    align-self: center;
+}
+div.icerikalin b {
+    font-size: 1.9rem;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium';
+    align-items: center;
+    align-self: center;
+}
+div.icerikalin {
+    display: flex;
+    flex-direction: row;
+}
