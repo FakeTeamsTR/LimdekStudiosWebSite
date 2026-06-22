@@ -1,2 +1,2 @@
-# LimdekStudiosWebSite
-Web Site
+# Limdek Studios Web Sitesi
+Şuanda tamamlanmış değil.
