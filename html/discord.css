@@ -29,3 +29,22 @@ div.menu1 a {
     color: #000000;
     font-family: monospace;
 }
+p.info1 {
+    font-size: 1.5rem;
+    font-family: Impact;
+    color: #a30000;
+}
+div.icerik1 {
+    display: flex;
+    flex-direction: inherit;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+div.icerik1 a {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 2rem;
+}
