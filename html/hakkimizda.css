@@ -44,14 +44,3 @@ div.icerik p {
     align-items: center;
     align-self: center;
 }
-div.icerikalin b {
-    font-size: 1.9rem;
-    color: #000000;
-    font-family: 'Franklin Gothic Medium';
-    align-items: center;
-    align-self: center;
-}
-div.icerikalin {
-    display: flex;
-    flex-direction: row;
-}
